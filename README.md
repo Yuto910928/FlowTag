@@ -2,7 +2,7 @@
 这个FlowTag是对[FlowTag](https://github.com/hanhailong/FlowTag)功能的添加，增加了1种FLOW_TAG_FIRSTVIEW_CHECKED_SINGLE_OTHER_CHECKED_MULTI模式
 当选择这个模式后，选择第一个标签则取消其他标签的选中，当选中其他标签时第一个标签取消，其他标签可多选
 ## 实现效果图如下:
-![Alt text](http://cdn.sinacloud.net/yuto910928-github/FlowTag/FlowTag.png?KID=sina,1h06y4ze4EatlAJE7wH0&Expires=1471921691&ssig=2U0WHFnMlT)
+![Alt text](https://github.com/Yuto910928/FlowTag/blob/master/FlowTag.png)
 
 ## 实现代码：
 ### 1.在xml中添加FlowTagLayout
