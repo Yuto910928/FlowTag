@@ -259,3 +259,17 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
+### 6.gradle依赖
+#### build.gradle:
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+  dependencies {
+	        compile 'com.github.Yuto910928:FlowTag:v1.0'
+	}
+```
+	
